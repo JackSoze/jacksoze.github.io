@@ -12,4 +12,11 @@
     "package_name": "io.github.jacksoze.twa",
     "sha256_cert_fingerprints": ["66:E2:2F:C6:94:D8:BA:93:2B:18:52:F8:80:C6:D2:06:59:6F:FE:0D:5B:1C:06:9E:5E:0D:81:33:65:9B:FC:8D"]
   }
-}]
+},{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jacksoze.twa",
+        "sha256_cert_fingerprints": ["28:EB:6C:53:EF:37:DF:32:18:A5:B1:C8:B9:BB:35:E1:57:83:AF:0A:D8:BE:17:6B:BB:A9:6A:D6:20:51:CE:5C"]
+      }
+    }]
