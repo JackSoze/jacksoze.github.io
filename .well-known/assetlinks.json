@@ -19,7 +19,14 @@
         "package_name": "io.github.jacksoze.expense_tracker",
         "sha256_cert_fingerprints": ["C8:05:47:0C:6E:76:3C:6C:CD:A1:B1:65:9F:45:2B:A6:19:82:68:5C:0F:69:69:CE:A0:A5:ED:1B:D5:7A:AA:28"]
       }
-    },[{
+    },{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ke.co.imaradsb.fundi",
+        "sha256_cert_fingerprints": ["1A:72:E9:BC:0E:C9:CF:8A:F3:58:66:58:97:AC:9C:30:88:64:0B:8C:FD:B7:C0:3D:27:2C:C3:52:66:62:D8:D2"]
+      }
+    },{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
@@ -27,4 +34,4 @@
         "sha256_cert_fingerprints": ["4F:3F:1E:0A:95:CC:3F:33:30:E9:16:97:22:29:CC:2B:93:94:F8:C0:9B:E3:36:F8:ED:99:35:31:31:2B:87:43"]
       }
     }]
-]
+
