@@ -33,5 +33,12 @@
         "package_name": "io.github.jacksoze.ninetydaytracker",
         "sha256_cert_fingerprints": ["7A:FF:88:F1:DF:81:24:D3:B0:ED:7D:F8:1C:B8:DB:73:E3:F6:32:5B:A1:6E:75:D9:58:92:6E:B3:75:7D:F2:E9"]
       }
+    },{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.shulehub.app",
+        "sha256_cert_fingerprints": ["B7:27:57:10:B7:DA:C0:3B:3F:09:B8:2E:E1:0B:A3:17:D0:44:8C:6F:5B:F2:86:77:0F:0F:8F:A8:58:9B:24:A0"]
+      }
     }]
 
